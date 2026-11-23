@@ -6,7 +6,7 @@
 
 Portfólio pessoal desenvolvido para apresentar minha trajetória acadêmica em **Ciência da Computação**, experiência prática em **Suporte de TI**, certificações técnicas e projetos desenvolvidos nas áreas de **Desenvolvimento Web, Mobile e IoT**.
 
-🔗 **Acesse o projeto online:** [https://carvalh0-samuel.github.io/portfolio/](https://carvalh0-samuel.github.io/portfolio/) *(atualize com o link final após ativar o GitHub Pages)*
+🔗 **Acesse o projeto online:** [https://carvalh0-samuel.github.io/Portfolio/](https://carvalh0-samuel.github.io/Portfolio/)
 
 ---
 
@@ -39,37 +39,6 @@ Portfólio pessoal desenvolvido para apresentar minha trajetória acadêmica em 
 1. **Medication Schedule App** *(Mobile)* — Aplicativo em React Native e Expo para auxiliar pacientes na adesão terapêutica, com controle de posologia, barra de progresso diário, persistência local e notificações.
 2. **Olympus - Projeto Web Responsivo** *(Web)* — Site responsivo desenvolvido de forma colaborativa com HTML5, CSS3, JavaScript, MySQL e versionamento via Git/GitHub.
 3. **Irrigação Automática com ESP32** *(IoT / Hardware)* — Protótipo emulado no Wokwi com C++ para monitoramento de temperatura e umidade, acionamento manual/automático e alertas em tempo real via WhatsApp.
-
----
-
-## 📂 Estrutura de Pastas
-
-```text
-portfolio/
-├── index.html                                # Página principal, estilos e scripts
-├── README.md                                 # Documentação do repositório
-└── assets/                                   # Arquivos estáticos do projeto
-    ├── Curriculo - Samuel Carvalho.pdf       # Currículo disponível para download
-    ├── icone.png                             # Capa do Medication Schedule App
-    ├── 01.png                                # Capa do projeto Olympus
-    └── ESP32.png                             # Capa do projeto de Irrigação com ESP32
-```
-
----
-
-## ⚙️ Como Executar Localmente
-
-Como o projeto não depende de etapas de *build* ou servidores complexos, basta seguir os passos abaixo:
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/carvalh0-samuel/portfolio.git
-   ```
-2. Acesse a pasta do projeto:
-   ```bash
-   cd portfolio
-   ```
-3. Abra o arquivo `index.html` diretamente no seu navegador ou utilize a extensão **Live Server** no VS Code.
 
 ---
 
